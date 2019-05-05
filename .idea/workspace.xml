@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="431568bc-0c23-48b6-9b46-1a426e7340bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyword_Extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyword_TFIDF_Extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEW_PATNUM_EXTRACTION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping_Abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping_Company.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping_Company_Abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping_IPC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping_IPC_Citation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrapping_TopIPC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_ipc_top.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lec_OR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lec_OR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Numpy_Practice-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_Practice.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/AI_Patent_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +28,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NEW_PATNUM_EXTRACTION.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapping_Abstract.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapping_Company.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapping_IPC_Citation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapping_TopIPC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sort_ipc_top.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapping_IPC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/AI_Patent_Sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Keyword_Extractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Keyword_TFIDF_Extractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,15 +140,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice.py" />
         <option value="$PROJECT_DIR$/../Algorithm/Practice.py" />
+        <option value="$PROJECT_DIR$/Scrapping.py" />
+        <option value="$PROJECT_DIR$/.ipynb_checkpoints/AI_Patent_Sort.py" />
+        <option value="$PROJECT_DIR$/Sort.py" />
+        <option value="$PROJECT_DIR$/sort_ipc_top.py" />
+        <option value="$PROJECT_DIR$/NEW_PATNUM_EXTRACTION.py" />
+        <option value="$PROJECT_DIR$/Keyword_Extractor.py" />
+        <option value="$PROJECT_DIR$/Scrapping_Company_Abstract.py" />
+        <option value="$PROJECT_DIR$/Keyword_TFIDF_Extractor.py" />
+        <option value="$PROJECT_DIR$/Practice2.py" />
+        <option value="$PROJECT_DIR$/Practice.py" />
+        <option value="$PROJECT_DIR$/Scrapping_IPC.py" />
+        <option value="$PROJECT_DIR$/Scrapping_Abstract.py" />
+        <option value="$PROJECT_DIR$/Scrapping_Company.py" />
+        <option value="$PROJECT_DIR$/Scrapping_IPC_Citation.py" />
+        <option value="$PROJECT_DIR$/Scrapping_TopIPC.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,22 +172,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Lec_OR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lec_OR" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -75,8 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Practice (1)">
-    <configuration name="Practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Practice">
+    <configuration name="AI_Patent_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lec_OR" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Algorithm" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.ipynb_checkpoints" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Algorithm/Practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.ipynb_checkpoints/AI_Patent_Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,10 +250,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Practice2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lec_OR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scrapping_Company" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lec_OR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapping_Company.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lec_OR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Practice (1)" />
         <item itemvalue="Python.Practice" />
+        <item itemvalue="Python.Practice2" />
+        <item itemvalue="Python.Sort" />
+        <item itemvalue="Python.Scrapping_Company" />
+        <item itemvalue="Python.AI_Patent_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -139,15 +337,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5080645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.52015865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32568148" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30780143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -161,13 +359,104 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Algorithm/Practice.py" />
+    <entry file="file://$PROJECT_DIR$/Numpy_Practice.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Untitled1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Sort.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapping_Company_Abstract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Algorithm/Practice.py">
+    <entry file="file://$PROJECT_DIR$/Scrapping_Abstract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapping_Company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapping_IPC_Citation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapping_TopIPC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort_ipc_top.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapping_IPC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/AI_Patent_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keyword_Extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keyword_TFIDF_Extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NEW_PATNUM_EXTRACTION.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
